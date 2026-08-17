@@ -33,18 +33,16 @@ This project practices image manipulation at the array level. It loads and inspe
 ```text
 advanced-pixel-manipulation/
 ├── Assignment_1_Advanced_Pixel_Manipulation.ipynb
-└── README.md
-```
+├── README.md
+├── assignment1image.jpg
+└── assignment1image2.jpg
 
 ## How to Run
 
 1. Open the notebook using the Colab link above.
-2. Upload the two JPG images to the Colab session.
-3. Ensure their filenames match those used in the notebook.
-4. Select **Runtime → Run all**.
-5. Review the displayed and saved results.
-
-> Files uploaded to a Colab session are temporary and must be uploaded again when starting a new runtime.
+2. Select **Runtime → Run all**.
+3. The source images will be downloaded automatically from this repository.
+4. Review the crop, Image 3, grayscale images, and sharpened result.
 
 ## Learning Outcomes
 
